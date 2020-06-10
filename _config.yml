@@ -27,7 +27,7 @@ defaults:
 
 
 
-title: "Base de datos Soporte Ingenieria Avanzada"
+title: "Base De Datos Soporte Ingenieria Avanzada"
 email: soporte@ingenieria-avanzada.com
 description: ""
 github:
@@ -39,5 +39,5 @@ gitment:
     client_id: a6fb73b3e790e234bab8
     client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
 
-url: "https://soporteiasa.github.io/"
+url: "https://soporteiasa.github.io"
 imgrepo: ""
