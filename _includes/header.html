@@ -25,7 +25,15 @@
                         </li>
                         {% endif %}
                         {% endfor %}
-                        <li><a href="#stq=" class="search-button"><span class="octicon octicon-search"></span></a></li>
+                        <!-- <li><a href="#stq=" class="search-button"><span class="octicon octicon-search"></span></a></li> -->
+                        <li>
+                            <div class="container">
+                                <div class="well" id="searchbox">
+                                    <input id="search-field" placeholder="Search the Site"/>
+                                    <ul id="results"></ul>
+                                </div>
+                            </div>
+                        </li>
                     </ul>
                 </div>
             </div>
