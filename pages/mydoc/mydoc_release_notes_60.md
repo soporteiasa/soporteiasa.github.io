@@ -63,6 +63,11 @@ Password:12345678
 
 
 **Restricciones:**
+*  **21-04** Restriccion de extensiones y que clase va a usar. (1-5).
+*  **21-05** Restricion de clases.
+*  **21-05-01** Habilitado de acuerdo al código que marca.
+     Hay que ir a verificar las restricciones de las marcaciones al 21-06-01
+*  **21-05-08** Restriccion de los codigos de tablas 1,2,3.
 
 
 **Otros:**
