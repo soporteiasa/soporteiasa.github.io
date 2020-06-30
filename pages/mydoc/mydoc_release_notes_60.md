@@ -25,11 +25,11 @@ Password:12345678
 
 **Restricciones:**
 
-**Otros:**
-
 *  **21-04** Restricción de las extensiones(revisar tabla de permisos en 21-05).
 *  **21-05** Restringir de acuerdo a los modos(revisar las restricciones de cada modo en 21-06).
 *  **21-06** Se definen las restricciones de los modos (1,2,3,4,5). Para restringir llamadas internacionales anteponer 00 ó 1470, departamentales con 6 y 7, restringir todo con el símbolo de @.
+
+**Otros:**
 
 ## CONFIGURACIÓN DE LINEAS CO
 
