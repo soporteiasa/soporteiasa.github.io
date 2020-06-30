@@ -36,23 +36,35 @@ Password:12345678
 
 **Grupos:**
 
+
 **Entrantes (E1 Pri):**
+
 
 **Salientes (E1 SIP):**
 
+
 **Restricciones:**
 
+
 **Otros:**
+
+
 
 
 ## CONFIGURACIÓN DEL SISTEMA
 
 **Clase de servicio:**
 
+
 **Horarios:**
+
 
 **Funciones:**
 
+
 **Restricciones:**
 
+
 **Otros:**
+
+
