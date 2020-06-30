@@ -8,6 +8,9 @@ sidebar: mydoc_sidebar
 permalink: mydoc_release_notes_60.html
 folder: mydoc
 ---
+
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+
 ## MANUALES
 Si desea ver los manuales completos de la SL2100 ingrese al link [Ver Manuales](https://drive.google.com/drive/folders/12A8vo8xROqJdaGIwD6x4NSJPwsDGlLmt?usp=sharing "Manuales SL2100")
 
