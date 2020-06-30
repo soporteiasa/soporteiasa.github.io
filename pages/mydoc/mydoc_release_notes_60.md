@@ -21,7 +21,7 @@ Password:12345678
 **Nombres:**
 *  **15-01** Agregar nombre a las extensiones.
 
-**Números:**(físicos/IP)
+**Números (físicos/IP):**
 
 **Restricciones:**
 
@@ -35,9 +35,9 @@ Password:12345678
 
 **Grupos:**
 
-**Entrantes:**(E1 Pri)
+**Entrantes (E1 Pri):**
 
-**Salientes:**(E1 SIP)
+**Salientes (E1 SIP):**
 
 **Restricciones:**
 
