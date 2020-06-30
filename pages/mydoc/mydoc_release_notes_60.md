@@ -9,15 +9,15 @@ permalink: mydoc_release_notes_60.html
 folder: mydoc
 ---
 
-## Relative links
+## EXTENSIONES
 
 You can now view the site offline rather than solely through the Jekyll preview server or deployed on a web server. The linking approach in both the sidebar and with inline links uses relative linking throughout.
 
-## Subfolders for pages
+## LINEAS
 
 You can creates folders and subfolders for your pages, similar to how you can store posts in folders and subfolders. When Jekyll builds the site, all pages get pushed into the root directory as single html files (rather than being pushed inside folders, or remaining in subfolders). See [Pages][mydoc_pages] for more details.
 
-## Alerts templates
+## SISTEMA
 
 You can use include templates for notes, tips, and warnings. These include templates make it easier to insert notes. If you make an error, you're immediately made aware since the site won't build. See [Alerts][mydoc_alerts] for more details.
 
