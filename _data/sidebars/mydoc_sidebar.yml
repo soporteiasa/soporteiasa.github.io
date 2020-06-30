@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: ## LISTADO DE EQUIPOS
+  product:  *LISTADO DE EQUIPOS*
 
   folders:
 
