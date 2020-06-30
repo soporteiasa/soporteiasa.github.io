@@ -9,7 +9,7 @@ permalink: mydoc_release_notes_60.html
 folder: mydoc
 ---
 ## ACCEDER A LA PLANTA
-Para ingresar a las configuraciones de la planta debe utilizar un browser con la IP 172.16.0.10"
+Para ingresar a las configuraciones de la planta debe utilizar un browser y colocar la IP 172.16.0.10 donde se le pedirá ingresar las siguientes credenciales:
 Usuario:tech
 Password:12345678
 
