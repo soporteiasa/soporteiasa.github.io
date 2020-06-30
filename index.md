@@ -11,6 +11,5 @@ Aquí podrá encontrar una guía rápida para la instalación y solución de inc
 
 ## Si en algún momento se presentara un nuevo error, favor de comunicarlo al departamento de aplicaciones para que se pueda documentar dicha solución. De ante mano muchas gracias.
 
-Follow these instructions to build the theme.
 
 
