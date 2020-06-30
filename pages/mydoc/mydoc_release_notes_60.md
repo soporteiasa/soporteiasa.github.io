@@ -60,15 +60,60 @@ Password:12345678
 
 
 **Funciones:**
+*  **15-07** Funciones para las teclas de acuerdo al número de teclas de cada equipo.
+*  **15-01** User Basic Setup
+                   funcion:       marcación:
+*  **15-07-06** 01 DSS/One Touch **9**24120000
+
+**Extensiones:**
+*  **Extensiones virtuales:** 50
+     *  **11-04** Extensiones virtuales
+          Las configuraciones se realizan de forma similar a las extensiones físicas.
+*  **Extensiones físicas:** 128
+
+*  **Extensiones móbiles:**
+*  **15-22 Extensiones móbiles:**
+      Mobile extensión setup.
+      Elegir la extensión predefinida como móbile en la 11-02.
+      
+      Deben de ser números que no se esten usando dentro de las extensiones físicas.
+      Una extensión móbile no debe registrarse cerca de una extensión fisica.
+      ejemplo: última extension fisica= 20        Extensión móbile= 35
+      
+*  **15-22-01** Definir la casilla.
+     Se puede definir casillas entre 0-999 pero se usa de la 900 en adelante.
+     Mobile extension target setup.
+
+*  **11-02** Se crean las extensiones y puertos que no están en uso.
+     Se define el puerto y la extensión correspondiente a dicho puerto.
+     
+*  **15-22-02**     
+
+     
+     
+     
+
 
 
 **Restricciones:**
 *  **21-04** Restriccion de extensiones y que clase va a usar. (1-5).
 *  **21-05** Restricion de clases.
 *  **21-05-01** Habilitado de acuerdo al código que marca.
-     Hay que ir a verificar las restricciones de las marcaciones al 21-06-01
+             Hay que ir a verificar las restricciones de las marcaciones al 21-06-01
 *  **21-05-08** Restriccion de los codigos de tablas 1,2,3.
+*  **21-05-08** Números internacionales para no llamar.
+     *  **tabla 1** Internacionales
+     *  **tabla 2** Nacionales
+     *  **tabla 3** 
+*  **21-06-07** Los números a los que se le restringe llamada de acuerdo a la tabla número 1 `--*1*--`
+*  **15-01** User Basic Setup
+*  **15-01-03** Habilita la extensión para enviar registros a Teletax SMDR PrintOut
+*  **15-01-04** Debe estar habilitado calling party number.
+*  **15-02** Lenguaje y tono de llamada.
 
+
+
+   
 
 **Otros:**
 
