@@ -1,5 +1,5 @@
 ---
-title: "GUIAS BASICAS DE INSTALACION Y CORRECCION DE ERRORES DE PLANTAS"
+title: "GUIAS BASICAS DE INSTALACION Y CORRECCION DE ERRORES"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
