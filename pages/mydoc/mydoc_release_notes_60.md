@@ -8,11 +8,15 @@ sidebar: mydoc_sidebar
 permalink: mydoc_release_notes_60.html
 folder: mydoc
 ---
-#Acceder a la planta: "Ingresar a las configuraciones de la planta por medio de un browser con la IP 172.16.0.10"
+## ACCEDER A LA PLANTA
+Para ingresar a las configuraciones de la planta debe utilizar un browser con la IP 172.16.0.10"
+Usuario:tech
+Password:12345678
 
 ## EXTENSIONES
 
-You can now view the site offline rather than solely through the Jekyll preview server or deployed on a web server. The linking approach in both the sidebar and with inline links uses relative linking throughout.
+
+
 
 ## LINEAS
 
