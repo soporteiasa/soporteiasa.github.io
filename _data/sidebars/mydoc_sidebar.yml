@@ -23,36 +23,19 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Get started
-      url: /index.html
-      output: web, pdf
-      type: homepage
-
     - title: Introducción
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Supported features
-      url: /mydoc_supported_features.html
-      output: web, pdf
-
-    - title: About the theme author
-      url: /mydoc_about.html
-      output: web, pdf
-
-    - title: Support
-      url: /mydoc_support.html
-      output: web, pdf
-
-  - title: Release Notes
+  - title: SL2100
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
+    - title: Instalación Básica
       url: /mydoc_release_notes_60.html
       output: web, pdf
 
-    - title: 5.0 Release notes
+    - title: Errores y Soluciones
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
