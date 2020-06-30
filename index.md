@@ -1,7 +1,7 @@
 ---
 title: "GUIAS BASICAS DE INSTALACION Y CORRECCION DE ERRORES"
 keywords: sample homepage
-
+tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
 
