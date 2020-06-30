@@ -17,17 +17,17 @@ Para ingresar a las configuraciones de la planta debe utilizar un browser y colo
 Usuario:tech
 Password:12345678
 
-## EXTENSIONES
+## CONFIGURACIÓN DE EXTENSIONES
 *  **15-01** Agregar nombre a las extensiones.
 *  **21-04** Restricción de las extensiones(revisar tabla de permisos en 21-05).
 *  **21-05** Restringir de acuerdo a los modos(revisar las restricciones de cada modo en 21-06).
 *  **21-06** Se definen las restricciones de los modos (1,2,3,4,5). Para restringir llamadas internacionales anteponer 00 ó 1470, departamentales con 6 y 7, restringir todo con el símbolo de @.
 
-## LINEAS
+## CONFIGURACIÓN DE LINEAS
 
 You can creates folders and subfolders for your pages, similar to how you can store posts in folders and subfolders. When Jekyll builds the site, all pages get pushed into the root directory as single html files (rather than being pushed inside folders, or remaining in subfolders). See [Pages][mydoc_pages] for more details.
 
-## SISTEMA
+## CONFIGURACIÓN DEL SISTEMA
 
 You can use include templates for notes, tips, and warnings. These include templates make it easier to insert notes. If you make an error, you're immediately made aware since the site won't build. See [Alerts][mydoc_alerts] for more details.
 
