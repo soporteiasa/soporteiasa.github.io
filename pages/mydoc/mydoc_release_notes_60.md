@@ -8,6 +8,9 @@ sidebar: mydoc_sidebar
 permalink: mydoc_release_notes_60.html
 folder: mydoc
 ---
+## MANUALES
+Si desea ver los manuales completos de la SL2100 ingrese al link [Manuales](https://drive.google.com/drive/folders/12A8vo8xROqJdaGIwD6x4NSJPwsDGlLmt?usp=sharing "Manuales SL2100")
+
 ## ACCEDER A LA PLANTA
 Para ingresar a las configuraciones de la planta debe utilizar un browser y colocar la IP 172.16.0.10 donde se le pedirá ingresar las siguientes credenciales:
 
