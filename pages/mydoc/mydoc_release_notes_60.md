@@ -27,7 +27,7 @@ Password:12345678
 *  **10-01-09** Zona horaria
 
 **Números (físicos/IP):**
-*  **11-01** Configurar la longitud de digitos de extension (apartado de númeración)
+*  **11-01** Configurar la longitud de digitos de extension (apartado de númeración) &nbsp;
              Configurar el número de la extensión.
 
 **Restricciones:**
