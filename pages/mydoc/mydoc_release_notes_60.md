@@ -53,7 +53,7 @@ Password:12345678
 
 ## CONFIGURACIÓN DEL SISTEMA
 
-**Clase de servicio:**
+**Clase de servicio:** 
 
 
 **Horarios:**
