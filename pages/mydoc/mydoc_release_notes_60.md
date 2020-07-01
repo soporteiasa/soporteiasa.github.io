@@ -56,7 +56,7 @@ Password:12345678
 
 * **11-02** Se crean los puertos y extensiones que no están en uso.
     Una extensión móbile no se debe registrar cerca de una extensión física. (ext. física 900, ext. móbile 915).
-* ****
+
 
 **Restricciones:**
 
@@ -88,6 +88,9 @@ Password:12345678
 ## CONFIGURACIÓN DEL SISTEMA
 
 **Clase de servicio:**
+**20-06:** ` 1 `.
+**20-07:** Clase de servicio (Administrator level).
+**20-07:**
 
 
 **Horarios:**
