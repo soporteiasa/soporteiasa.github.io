@@ -29,6 +29,34 @@ Password:12345678
 **Números (físicos/IP):**
 *  **11-01** Configurar la longitud de digitos de extension (apartado de númeración) &nbsp;
              Configurar el número de la extensión.
+*  **22-11** Asignar un número a las extensiones.
+
+*  **22-11-01** Configuración para que la planta analice los últimos 4 dígitos.
+
+*  **22-11-02** A qué extension se va asignar el número.
+             
+## CONFIGURACIÓN DE VIRTUALES Y MÓBILES.
+**Extensiones virtuales:**
+* **11-04** Extensiones virutales.
+    Se configuran de forma similar a las extensiones físicas.
+
+**Extensiones móbiles:**
+* **15-22** Móbile extensión setup.
+    La extensiones móbiles deben de ser números que no se estén usando entre las extensiones físicas.
+    Elegir la extensión predefinida como móbile en 11-02. 
+
+* **15-22-01** Definir la casilla desde 0-999 pero se usa de la 900 en adelante.
+    Móbile extensón target setup.
+    
+* **15-22-02** Para que no pida confirmación DTMF para no darle contestar 2 veces.
+
+* **15-22-03** Use normal trunk access code 
+
+* **11-09-01** code QR
+
+* **11-02** Se crean los puertos y extensiones que no están en uso.
+    Una extensión móbile no se debe registrar cerca de una extensión física. (ext. física 900, ext. móbile 915).
+* ****
 
 **Restricciones:**
 
